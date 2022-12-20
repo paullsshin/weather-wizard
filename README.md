@@ -1,2 +1,72 @@
-# weather-wizard
-Module 6 Challenge (5 Day Weather App)
+# ***Weather Wizard ☀️🌧❄️: Weather You Can Get with the Cast of a Button***
+
+https://paullsshin.github.io/weather-wizard/
+
+<!-- deployed application -->
+## **Description** 📚
+
+*WEATHER WIZARD* is an application designed for people wanting to get any current weather information in any city with the simple actions of typing and clicking.
+
+## **Table of Contents** 📄
+
+* Installation
+* Usage
+* License
+* Contributing
+* Testing
+* Technology
+* Questions
+
+---
+
+## **Installation** ⚙️
+
+Visit our [repository](https://github.com/paullsshin/weather-wizard) to reference: any materials, the process in developing the web page, and the people involved in creating the web page.
+<hr>
+
+### **Usage** 💻
+* Users can select a country from the drop-down menu.
+* Articles will populate on the right side of the screen.
+* There will be glimpses of the article that the user can read.
+* If the user wants to look further into the article, there is an "article" link that they can click on.
+* There is a breaking news section that the user can also look at. They will also be able to click on the breaking news link as well if they want to see the full article.
+
+<p align="center">
+<img src ="Assets\IMG\PaperBoy News Service.gif" width="80%">
+</p>
+
+<hr>
+
+### **License** 💳
+
+MIT License
+
+Copyright © 2022
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<hr>
+
+### **Testing** 📝
+All testing was done by the developing team.
+<hr>
+
+### **Technology** 💡
+* [Free News Api](https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/)
+* [Breaking News Api](https://rapidapi.com/vaskort/api/google-top-news/)
+* [Country List Generator](https://www.html-code-generator.com/html/drop-down/country-names)
+* [Paper Boy Gif](https://media.giphy.com/media/KZTModoSn7vq9qTUCw/giphy.gif)
+* [Materialize (CSS Framework)](https://materializecss.com/)
+* [JQUERY](https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js)
+<hr>
+
+### **Contact** ☎
+* Sterling Cafrae **-** [Github](https://github.com/scarfrae)**,** [LinkedIn](https://www.linkedin.com/in/sterling-carfrae-a2a8151a5/)
+* Niklas Solomon **-** [Github](https://github.com/NiklasSolomon)**,** [LinkedIn](https://www.linkedin.com/in/niklas-solomon-391147142)
+* James Van Osdol **-** [Github](https://github.com/jvanosdol)**,** [LinkedIn](https://www.linkedin.com/in/james-van-osdol-4a228b23b/)
+* Nicholas Webb **-** [Github](https://github.com/Kingnick253)**,** [LinkedIn](https://www.linkedin.com/in/nicholas-webb-954a1b239/)
+* Paull Shin **-** [Github](https://github.com/paullsshin)**,** [LinkedIn](https://www.linkedin.com/in/paull-shin-b3b0b410b/)
+***

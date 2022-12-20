@@ -1,31 +1,48 @@
 /* Global Selectors */
 * {
-    font-family: 'Montserrat';
+    font-family: 'Russo One', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+      background-image: url(./img/Night\ Sly\ 2.jpg);
+      background-repeat:round
   }
   
   h1 {
     text-align: center;
-    color: #f5f5f5;
+    background-color: rgb(2, 38, 38);
+    border-radius: 50px;
+    border: 2px solid white;
+    opacity: 0.8;
+    color: white;
   }
   
-  label {
-    font-size: 20px;
-    font-weight: 600;
-    margin-top: 15px;
-    margin-left: 15px;
+  .main-card {
+    background-color: rgba(0, 0, 0, 0.567);
+    border-radius: 30px;
+    border: 2px solid white;
+    color: white;
+  }
+  
+  .row {
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 15px;
   }
 
   .card-header {
-    color: black;
+    color: white
   }
-  
-  
 
   .ion-icon {
     color: white;
   }
   
-  /* Class Selectors */
   .icons {
       height: 80px;
       width: 80px;
@@ -37,8 +54,9 @@
   }
 
   #days {
-    color: black;
     text-align: left;
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
   }
   
   .cardCurrentCityName {
@@ -46,64 +64,14 @@
     font-weight: 800;
     color: white;
   }
+
   .card {
-      margin: 15px;
-    font-size: 16px;
+    margin: 50px;
+    font-size: 20px;
   }
-  .card-mb3 {
-    background-color: #f5f5f5;
-  }
-  
-  .colm1 {
-      background-color: #f5f5f5;
-  }
-  
-  .colm2 {
-      background-color: #f5f5f5;
-  }
-  
+
   .histBtnRow {
-      margin-top: 8px;
-      margin-bottom: 8px;
+      margin: 20px 0;
   }
- 
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
- 
-  
-  body {
-    min-height: 100%;
-    line-height: 1;
-    font-family: sans-serif;
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-size: 100%;
-  }
-  
-  input,
-  select,
-  option,
-  optgroup,
-  textarea,
-  button,
-  pre,
-  code {
-    font-size: 100%;
-    font-family: inherit;
-  }
-  
-  ol,
-  ul {
-    list-style: none;
-  }
-  
+
+
