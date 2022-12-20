@@ -25,14 +25,13 @@ Visit our [repository](https://github.com/paullsshin/weather-wizard) to referenc
 <hr>
 
 ### **Usage** 💻
-* Users can select a country from the drop-down menu.
-* Articles will populate on the right side of the screen.
-* There will be glimpses of the article that the user can read.
-* If the user wants to look further into the article, there is an "article" link that they can click on.
-* There is a breaking news section that the user can also look at. They will also be able to click on the breaking news link as well if they want to see the full article.
+* Users can type in a city that they want to search.
+* Once the city has been entered the user can then hit the "Click to Search" button to generate cards on the weather currently and for the next 5 days.
+* There will be a main card displaying the location name, date, temperature, wind speed, humidity, and pressure. Then there will be 5 cards below it showing the forecast for the next 5 days. Those cards will display the temperature, wind speed, and humidity.
+* If the user wants to look at something that they searched before then they can click on the name below the search bar to generate that city's weather information again.
 
 <p align="center">
-<img src ="Assets\IMG\PaperBoy News Service.gif" width="80%">
+<img src ="./assets/img/Screenshot 2022-12-19 16.52.52.png" width="80%">
 </p>
 
 <hr>
@@ -55,18 +54,11 @@ All testing was done by the developing team.
 <hr>
 
 ### **Technology** 💡
-* [Free News Api](https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/)
-* [Breaking News Api](https://rapidapi.com/vaskort/api/google-top-news/)
-* [Country List Generator](https://www.html-code-generator.com/html/drop-down/country-names)
-* [Paper Boy Gif](https://media.giphy.com/media/KZTModoSn7vq9qTUCw/giphy.gif)
-* [Materialize (CSS Framework)](https://materializecss.com/)
+* [Open Weather Map](https://openweathermap.org/api)
+* [Bootstrap](https://getbootstrap.com/)
 * [JQUERY](https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js)
 <hr>
 
-### **Contact** ☎
-* Sterling Cafrae **-** [Github](https://github.com/scarfrae)**,** [LinkedIn](https://www.linkedin.com/in/sterling-carfrae-a2a8151a5/)
-* Niklas Solomon **-** [Github](https://github.com/NiklasSolomon)**,** [LinkedIn](https://www.linkedin.com/in/niklas-solomon-391147142)
-* James Van Osdol **-** [Github](https://github.com/jvanosdol)**,** [LinkedIn](https://www.linkedin.com/in/james-van-osdol-4a228b23b/)
-* Nicholas Webb **-** [Github](https://github.com/Kingnick253)**,** [LinkedIn](https://www.linkedin.com/in/nicholas-webb-954a1b239/)
+### **Contact** 📱
 * Paull Shin **-** [Github](https://github.com/paullsshin)**,** [LinkedIn](https://www.linkedin.com/in/paull-shin-b3b0b410b/)
 ***
