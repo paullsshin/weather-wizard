@@ -1,6 +1,6 @@
 # ***Weather Wizard ☀️🌧❄️: Weather You Can Get with the Cast of a Button***
 
-https://paullsshin.github.io/weather-wizard/
+[Github Page](https://github.com/paullsshin/weather-wizard)
 
 <!-- deployed application -->
 ## **Description** 📚
