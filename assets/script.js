@@ -136,7 +136,7 @@ function getFiveDayForecast() {
 
 			var divElHeader = $("<div>");
 			divElHeader.attr("class", "card-header");
-			var m = dayjs(`${weatherCards[i].date}`).format("ddd");
+			var m = dayjs(`${weatherCards[i].date}`).format("MMM, DD YYYY");
 			divElHeader.text(m);
 			divElCard.append(divElHeader);
 
