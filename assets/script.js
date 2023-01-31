@@ -71,8 +71,8 @@ function getCurrentWeather() {
 		url: getUrlCurrent,
 		method: "GET",
   }).then(function (response) {
-    $(".cardCityName").text(response.name);
-    $(".cardCurrentDate").text(date);
+    $(".cityName").text(response.name);
+    $(".currentDate").text(date);
 
     //icons from openweathermap.org/weather-conditions
 		$(".icons").attr("src", `https://openweathermap.org/img/wn/${response.weather[0].icon}@2x.png`);
